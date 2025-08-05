@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="till_death.png" alt="Till Death Do Us Part poster" width="600"/>
+</p>
+
 # 💀 Till Death Do Us Part
 
 This project is currently in development. Below is a link to the video with subtitles.
@@ -28,4 +32,3 @@ This repository contains early materials, structure files, documentation, and re
 ## 📧 Contact
 
 For questions or collaborations, feel free to open an issue or reach out via GitHub.
-
