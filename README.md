@@ -4,13 +4,13 @@
 
 # 💀 Till Death Do Us Part
 
-This project is currently in development. Below is a link to the video with subtitles.
+This project is currently in development. Below is a visual link to the video with subtitles.
 
 ---
 
 ## 🎬 Watch the Video
 
-[▶️ Watch "Till Death Do Us Part — with subtitles" on Google Drive](https://drive.google.com/file/d/1gV3CN7vhYx17i8wqjV7JcX8O0UfMvbQ2/view)
+[![Till Death Do Us Part](till_death.png)](https://drive.google.com/file/d/1gV3CN7vhYx17i8wqjV7JcX8O0UfMvbQ2/view)
 
 ---
 
